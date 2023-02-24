@@ -2,6 +2,7 @@
 title: Looking for the perfect reading setup
 date: 2023-02-22 22:05:46
 tags:
+  - reading
 ---
 
 Early last year I settled on using my iPad as my default reading device. It served me well but there were a few issues with my flow that prevented the experience from being perfect. The flow was like this:
