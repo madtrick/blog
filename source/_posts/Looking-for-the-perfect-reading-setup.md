@@ -19,7 +19,7 @@ You might be wondering why I would go through such a process. The integration be
 
 
 
-Figure. An example of the results of my reading
+Figure. Hightlights and annotations
 
 
 
