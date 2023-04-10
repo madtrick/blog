@@ -12,7 +12,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
-    "@peaceroad/markdown-it-figure-with-p-caption": "^0.4.5",
+    "@peaceroad/markdown-it-figure-with-p-caption": "^0.4.6",
     "hexo": "^6.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
