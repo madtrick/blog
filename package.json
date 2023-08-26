@@ -14,6 +14,7 @@
   "dependencies": {
     "@peaceroad/markdown-it-figure-with-p-caption": "^0.4.5",
     "hexo": "^6.3.0",
+    "hexo-admonition": "^1.1.2",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
