@@ -1,5 +1,5 @@
 ---
-title: why you shouldn't build a distributed system
+title: Why you shouldn't build a distributed system
 date: 2023-08-26 20:47:07
 tags:
 ---
